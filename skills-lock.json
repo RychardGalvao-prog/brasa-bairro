@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "cleanui": {
+      "source": "peterhdd/cleanui",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "53dd3b8bedf70e2624a205dcdd64d6ca296c20bd1c7c0cb1e772f087ca3e6928"
+    },
+    "refero-design": {
+      "source": "referodesign/refero_skill",
+      "sourceType": "github",
+      "skillPath": "SKILL.md",
+      "computedHash": "3949c57ffde008b4047ad1030f5da735c70beebd33fce32cba516f6968ba687d"
+    }
+  }
+}

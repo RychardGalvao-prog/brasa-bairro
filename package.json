@@ -1,0 +1,13 @@
+{
+  "name": "capital-food-ops-workspace",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix capital-food-ops-v2-package/project-scaffold run dev --",
+    "build": "npm --prefix capital-food-ops-v2-package/project-scaffold run build",
+    "start": "npm --prefix capital-food-ops-v2-package/project-scaffold run start --",
+    "lint": "npm --prefix capital-food-ops-v2-package/project-scaffold run lint",
+    "typecheck": "npm --prefix capital-food-ops-v2-package/project-scaffold run typecheck",
+    "test": "npm --prefix capital-food-ops-v2-package/project-scaffold run test",
+    "audit": "npm --prefix capital-food-ops-v2-package/project-scaffold audit --audit-level=moderate"
+  }
+}

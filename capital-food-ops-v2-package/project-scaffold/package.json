@@ -1,0 +1,57 @@
+{
+  "name": "capital-food-ops-v2",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest --run",
+    "audit": "npm audit --audit-level=moderate"
+  },
+  "dependencies": {
+    "@gsap/react": "latest",
+    "@hookform/resolvers": "latest",
+    "@radix-ui/react-accordion": "^1.2.13",
+    "@radix-ui/react-popover": "^1.1.16",
+    "@radix-ui/react-tabs": "^1.1.14",
+    "@radix-ui/react-tooltip": "^1.2.9",
+    "class-variance-authority": "latest",
+    "clsx": "latest",
+    "embla-carousel-react": "latest",
+    "gsap": "latest",
+    "lenis": "latest",
+    "lucide-react": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-hook-form": "latest",
+    "split-type": "^0.3.4",
+    "tailwind-merge": "latest",
+    "unsplash-js": "^8.0.0",
+    "vaul": "latest",
+    "zod": "latest"
+  },
+  "overrides": {
+    "next": {
+      "postcss": "8.5.10"
+    }
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "latest",
+    "@tailwindcss/postcss": "latest",
+    "@testing-library/jest-dom": "latest",
+    "@testing-library/react": "latest",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "jsdom": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest",
+    "vitest": "latest"
+  }
+}
